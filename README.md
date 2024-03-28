@@ -1,8 +1,18 @@
-# React + Vite
+# Projeto 002 - Cronômetro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de estudo desenvolvido no curso [20+ Projetos em React JS aprenda Redux, Bootstrap, APIs](https://www.udemy.com/share/109Ohk3@5QwjZu-ULUXpYc0iK6cqT_ayXruFz4eUoDF0DR83UmSjnZnVMPbTKYGZqYovrSSx/) da [Udemy](https://www.udemy.com/).
 
-Currently, two official plugins are available:
+## Baixar as dependencias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Com o node instalado execute o seguinte comando:
+
+```bash
+  npm install
+```
+
+## Executar a aplicação
+
+- Agora subindo a aplicação:
+```bash
+  npm run dev
+ ```
