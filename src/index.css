@@ -8,4 +8,7 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
+  background: #bdc3c7;
+  background: -webkit-linear-gradient(to right, #153d3b, #dce6e0);
+  background: linear-gradient(to right, #1d5235, #bdc7c5);
 }
