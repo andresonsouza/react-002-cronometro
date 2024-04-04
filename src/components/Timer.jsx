@@ -2,6 +2,7 @@ import React from "react";
 import TimerDisplay from "./TimerDisplay";
 import TimerConstrols from "./TimerConstrols";
 import LapList from "./LapList";
+import "./Timer.css"
 
 const Timer = () => {
   return (
